@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>
-    NOML
-    <sup>
-      <br>
-      <sub>Nested-Object Markup Language</sub>
-    </sup>
-  </h1>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noml-lang/.github/refs/heads/main/media/noml-head-black.png">
+        <img width="100%" height="auto" alt="James Gober - brand logo. Image displays stylish 'JG' initials encased in a hexagon outline." src="https://raw.githubusercontent.com/noml-lang/.github/refs/heads/main/media/noml-head-white.png">
+    </picture>
 </div>
+
 
 <!--
 
